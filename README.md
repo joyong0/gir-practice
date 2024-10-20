@@ -1,4 +1,7 @@
 # git-practice
-first commit
-second commt
 
+first commit
+
+second commit
+
+third commit
