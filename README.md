@@ -1,2 +1,2 @@
 # git-practice
-homework of Lab7
+first commit
