@@ -1,2 +1,2 @@
-# gir-practice
+# git-practice
 homework of Lab7
